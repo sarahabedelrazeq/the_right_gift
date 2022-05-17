@@ -1,0 +1,30 @@
+#footer {
+  .footer_container {
+    position: relative;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    background-size: cover;
+    width: 100%;
+    padding: 120px 0pc 0pc 0pc;
+    margin-top: 80px;
+
+    span.input-group-text {
+      padding-top: 12px;
+    }
+
+    a {
+      color: theme-color(light4);
+      &:hover {
+        color: theme-color(primary);
+      }
+    }
+
+    .social_media_links{
+      img{
+        width: 42px;
+        height: 42px;
+      }
+    }
+  }
+}

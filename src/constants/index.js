@@ -1,0 +1,3 @@
+import { DEFAULT_LANGUAGE, DEFAULT_THEME } from "./config";
+
+export { DEFAULT_LANGUAGE, DEFAULT_THEME };

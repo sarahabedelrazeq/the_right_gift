@@ -1,0 +1,9 @@
+#home_page {
+  section:nth-child(even){
+    background: linear-gradient(
+      180deg,
+      theme-color(primary)  30%,
+      theme-color(secondary) 70%
+    );
+  }
+}

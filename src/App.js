@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Route, Routes } from "react-router-dom";
+import { useLanguage } from "./hooks";
+import { Home } from "./pages";
+import "./sass/index.scss";
 
 function App() {
+  const language = useLanguage();
+  React.useLayoutEffect(() => {
+    document.documentElement.setAttribute("lang", language.lang);
+    document.documentElement.setAttribute("dir", language.direction);
+  }, [language]);
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
     </div>
   );
 }

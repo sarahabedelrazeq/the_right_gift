@@ -1,0 +1,197 @@
+#header {
+  position: relative;
+  overflow: visible;
+
+  z-index: 200;
+
+  @media only screen and(max-width:768px) {
+    max-height: fit-content;
+  }
+
+  @media only screen and(max-width: 319px) {
+    position: relative !important;
+    margin-top: -160px;
+  }
+
+  .logo {
+    width: 100%;
+    max-height: 87px;
+  }
+
+  .logo-text {
+    font-size: 16px;
+  }
+
+  .ipa_library_logo {
+    padding-top: 10px;
+  }
+
+  Nav {
+    a {
+      font-style: normal;
+      font-size: 16px;
+      color: theme-color(light5);
+      &:hover {
+        color: theme-color(primary);
+      }
+      &.active {
+        color: theme-color(primary);
+        font-weight: 700;
+      }
+      @media only screen and(max-width: 1024px) and (min-width: 768px) {
+        font-size: 14px;
+      }
+    }
+  }
+
+  .dropdown-toggle {
+    box-shadow: none;
+
+    &::after {
+      display: none;
+    }
+  }
+  .dropdown-menu {
+    display: block !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: absolute !important;
+    border: none;
+    box-shadow: 0px 5px 30px rgb(20 0 5 / 10%);
+    top: 20px !important;
+    width: 256px !important;
+
+    @media only screen and (min-width: 1024px) {
+      inset: 20px auto auto calc(256px * -0.15) !important;
+    }
+
+    @media only screen and(max-width: 768px) {
+      &::before {
+        display: none;
+      }
+    }
+
+    a {
+      padding: 0;
+      background-color: transparent;
+      color: theme-color(light4);
+      svg {
+        fill: theme-color(light4);
+      }
+      &:hover,
+      &:active,
+      &.active {
+        background-color: transparent;
+        color: theme-color(primary);
+        svg {
+          fill: theme-color(primary);
+        }
+      }
+      &:not(:last-child) {
+        border-bottom: 1px solid theme-color(light3);
+      }
+    }
+
+    > div {
+      max-height: 0;
+      overflow-y: hidden;
+      -webkit-transition: all 300ms ease-in-out;
+      -moz-transition: all 300ms ease-in-out;
+      -ms-transition: all 300ms ease-in-out;
+      -o-transition: all 300ms ease-in-out;
+      transition: all 300ms ease-in-out;
+      animation-name: example;
+      animation-duration: 300ms;
+    }
+    @keyframes example {
+      from {
+        max-height: 0;
+      }
+      to {
+        max-height: calc(100vh - 120px);
+      }
+    }
+
+    &.show {
+      display: block;
+
+      > div {
+        max-height: calc(100vh - 120px);
+      }
+
+      &::before {
+        content: "";
+        width: 0;
+        height: 0;
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-bottom: 13px solid #fff;
+        top: -13px;
+        position: absolute;
+        right: calc(50% - 8px);
+        left: calc(50% - 8px);
+      }
+    }
+  }
+
+  .menu {
+    width: 25px;
+    height: auto;
+    margin: 6px 0;
+  }
+
+  .mobileNav {
+    overflow-y: hidden;
+    opacity: 0.8;
+    max-height: 0;
+    width: 300px;
+    min-width: 50%;
+    max-width: calc(100% - 24px);
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    -ms-transition: all 300ms ease-in-out;
+    -o-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    box-shadow: 0 3px 5px theme-color(light3);
+    border-radius: 8px;
+    background-color: #fff;
+
+    &.open {
+      max-height: 400px;
+      opacity: 1;
+    }
+
+    .list-group {
+      height: 100%;
+
+      .list-group-item {
+        border: 1px solid theme-color("light") ;
+        background-color: transparent ;
+        border-bottom-width: 0px ;
+      }
+
+      .list-group-item.active {
+        color: theme-color(primary);
+        font-weight: 600;
+      }
+      .list-group-item:hover {
+        color: theme-color(primary);
+      }
+    }
+  }
+
+  @media (max-width: 575px) {
+    .mobileNav {
+      max-width: calc(100% - 24px);
+      min-width: calc(100% - 24px);
+      width: calc(100% - 24px);
+    }
+  }
+}
+//should be outside the header scss
+.modal {
+  padding: 0 !important;
+  .modal-header .btn-close {
+    margin: 0 !important;
+  }
+}
