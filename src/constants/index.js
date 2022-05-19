@@ -1,3 +1,3 @@
-import { DEFAULT_LANGUAGE, DEFAULT_THEME } from "./config";
+import { DEFAULT_LANGUAGE, DEFAULT_THEME, API_URL } from "./config";
 
-export { DEFAULT_LANGUAGE, DEFAULT_THEME };
+export { DEFAULT_LANGUAGE, DEFAULT_THEME, API_URL };
