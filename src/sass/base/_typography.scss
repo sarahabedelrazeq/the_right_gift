@@ -1,38 +1,11 @@
-
-
-* {
-  font-family: "SST Arabic";
-  margin: 0;
-  padding: 0;
+html[dir='rtl']{
+  body{
+      text-align: right;
+  }
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-a,
-span,
-button {
-  line-height: unset !important;
-  margin-bottom: 0 !important;
-  position: relative;
-  bottom: 0.06em;
-}
-
-input,
-button,
-select,
-optgroup,
-textarea {
-  line-height: unset !important;
-}
-
-p {
-  margin-top: -3px !important;
-  overflow: hidden;
+*{
+  line-height: 1.5 !important;
 }
 
 .btn,

@@ -1,8 +1,6 @@
 a,
 svg,
-button,
-.borrow_form,
-.slide_text {
+button {
   -webkit-transition: all 250ms ease;
   -moz-transition: all 250ms ease;
   -ms-transition: all 250ms ease;
@@ -19,6 +17,7 @@ button,
 }
 
 .btn-outline-primary-hover {
+
   &:hover,
   &:active,
   &:focus {
@@ -60,6 +59,7 @@ button,
 
   &-white {
     fill: white;
+
     * {
       fill: white;
     }
@@ -96,6 +96,7 @@ button,
   &-2 {
     column-gap: 12px;
   }
+
   &-4 {
     column-gap: 24px;
   }
@@ -105,6 +106,7 @@ button,
   font-weight: normal !important;
   font-weight: 500 !important;
 }
+
 .avatar {
   background-color: #ccd9e0;
 }
@@ -119,34 +121,18 @@ button,
   outline-width: 0 !important;
 }
 
-.filter_hover {
-  -webkit-filter: brightness(95%);
-  -moz-filter: brightness(95%);
-  -o-filter: brightness(95%);
-  -ms-filter: brightness(95%);
-  filter: brightness(95%);
-  transition: filter 250ms linear;
-
-  &:hover {
-    -webkit-filter: brightness(105%);
-    -moz-filter: brightness(105%);
-    -o-filter: brightness(105%);
-    -ms-filter: brightness(105%);
-    filter: brightness(105%);
-  }
-}
-
 input,
 textarea,
 select,
 button {
-  & ~ .absolute-arrow {
+  &~.absolute-arrow {
     position: absolute;
     top: calc(50% - 10px);
 
     &[dir="ltr"] {
       right: 24px;
     }
+
     &[dir="rtl"] {
       left: 24px;
     }
@@ -187,6 +173,11 @@ button {
   }
 }
 
-#root, body{
-  min-height: 100vh
+
+.slick-slider {
+  margin-bottom: 25px;
+
+  .slick-dots .slick-active button::before {
+    color: theme-color(primary);
+  }
 }

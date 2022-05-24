@@ -1,0 +1,2472 @@
+[
+  {
+    "name": { "en": "3D printing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Acrobatics", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Acting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Amateur radio", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Animation", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Aquascaping", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Astrology", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Astronomy", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Baking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Baton twirling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Blogging", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Building", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Board/tabletop games", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Book discussion clubs", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Book restoration", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Bowling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Brazilian jiu-jitsu", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Breadmaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Bullet journaling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cabaret", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Calligraphy", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Candle making", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Candy making", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Car fixing & building", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Card games", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cheesemaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cleaning", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Clothesmaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Coffee roasting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Collecting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Coloring", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Computer programming", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Confectionery", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cooking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cosplaying", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Couponing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Craft", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Creative writing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Crocheting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cross-stitch", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Crossword puzzles", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cryptography", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cue sports", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Dance", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Digital arts", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Distro Hopping", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "DJing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Do it yourself", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Drama", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Drawing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Drink mixing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Drinking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Electronic games", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Electronics", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Embroidery", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Experimenting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fantasy sports", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fashion", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fashion design", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fishkeeping", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Filmmaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Flower arranging", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fly tying", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Foreign language learning", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Furniture building", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Gaming", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Genealogy", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Gingerbread house making", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Glassblowing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Graphic design", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Gunsmithing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Gymnastics", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Hacking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Herp keeping", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Home improvement", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Homebrewing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Houseplant care", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Hula hooping", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Humor", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Hydroponics", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Ice skating", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Jewelry making", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Jigsaw puzzles", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Journaling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Juggling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Karaoke", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Karate", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Kendama", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Knife making", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Knitting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Knot tying", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Kombucha brewing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Lace making", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Lapidary", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Leather crafting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Lego building", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Lock picking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Listening to music", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Listening to podcasts", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Machining", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Macrame", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Magic", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Makeup", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Mazes (indoor/outdoor)", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Metalworking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Model building", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Model engineering", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Nail art", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Needlepoint", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Origami", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Painting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Palmistry", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Pet adoption & fostering", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Philately", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Photography", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Practical jokes", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Pressed flower craft", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Playing musical instruments", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Poi", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Pottery", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Powerlifting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Puzzles", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Quilling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Quilting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Quizzes", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Radio-controlled model", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Rail transport modeling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Rapping", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Reading", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Refinishing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Reiki", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Robot combat", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Rubik's Cube", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Scrapbooking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Sculpting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Sewing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Shoemaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Singing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Sketching", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Skipping rope", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Slot car", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Soapmaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Social media", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Spreadsheets", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Stand-up comedy", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Stamp collecting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Table tennis", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Tarot", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Taxidermy", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Thrifting", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Video editing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Video game developing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Video gaming", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Watching movies", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Watching television", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Videography", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Virtual reality", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Waxing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Weaving", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Weight training", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Welding", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Whittling", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Wikipedia editing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Winemaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Wood carving", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Woodworking", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Worldbuilding", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Writing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Word searches", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Yo-yoing", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Yoga", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Zumba", "ar": "" },
+    "category": "General",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Amusement park visiting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Air sports", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Airsoft", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Amateur geology", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Archery", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Astronomy", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Backpacking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Badminton", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "BASE jumping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Baseball", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Basketball", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Beekeeping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Birdwatching", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Blacksmithing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "BMX", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Board sports", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Bodybuilding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Bonsai", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Butterfly watching", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Bus riding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Camping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Canoeing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Canyoning", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Car riding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Caving", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Composting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Cycling", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Dowsing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Driving", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Farming", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Fishing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Flag football", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Flower growing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Flying", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Flying disc", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Foraging", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Fossicking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Freestyle football", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Gardening", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Geocaching", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Ghost hunting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Gold prospecting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Graffiti", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Handball", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Herbalism", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Herping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "High-power rocketry", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Hiking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Hobby horsing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Hobby tunneling", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Hooping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Horseback riding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Hunting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Inline skating", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Jogging", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Jumping rope", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Kayaking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Kite flying", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Kitesurfing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Lacrosse", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "LARPing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Letterboxing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Longboarding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Martial arts", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Metal detecting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Meteorology", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Motor sports", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Mountain biking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Mountaineering", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Museum visiting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Mushroom hunting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Netball", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Nordic skating", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Orienteering", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Paintball", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Parkour", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Photography", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Podcast hosting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Polo", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Public transport riding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Rafting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Railway journeys", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Rappelling", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Road biking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Rock climbing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Roller skating", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Rugby", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Running", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Radio-controlled model", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sailing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sand art", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Scouting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Scuba diving", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sculling", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Shooting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Shopping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Shuffleboard", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Skateboarding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Skiing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Skimboarding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Skydiving", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Slacklining", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Snowboarding", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Snowmobiling", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Snowshoeing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Soccer", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Stone skipping", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sun bathing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Surfing", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Survivalism", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Swimming", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Taekwondo", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tai chi", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tennis", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Topiary", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tourism", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Thru-hiking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Trade fair visiting", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Travel", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Urban exploration", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Vacation", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Vegetable farming", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Videography", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Vehicle restoration", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Walking", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Water sports", "ar": "" },
+    "category": "General",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Astronomy", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Biology", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Chemistry", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Electrochemistry", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Physics", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Psychology", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Sports science", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Geography", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "History", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Mathematics", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Railway studies", "ar": "" },
+    "category": "Educational",
+    "subCategory": false
+  },
+  {
+    "name": { "en": "Action figure", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Antiquing", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Ant-keeping", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Art collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Book collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Button collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cartophily", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Coin collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Comic book collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Deltiology", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Die-cast toy", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Digital hoarding", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Dolls", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Element collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Ephemera collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fusilately", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Knife collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Lotology", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Movie and movie memorabilia collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fingerprint collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Perfume", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Phillumeny", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Radio-controlled model", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Rail transport modelling", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Record collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Rock tumbling", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Scutelliphily", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Shoes", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Slot car", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Sports memorabilia", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Stamp collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Stuffed toy collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Tea bag collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Ticket collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Toys", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Transit map collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Video game collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Vintage cars", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Vintage clothing", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Vinyl Records", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Antiquities", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Auto audiophilia", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Flower collecting and pressing", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Fossil hunting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Insect collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Magnet fishing", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Metal detecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Mineral collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Rock balancing", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sea glass collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Seashell collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Stone collecting", "ar": "" },
+    "category": "Collection",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Animal fancy", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Axe throwing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Backgammon", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Badminton", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Baton twirling", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Beauty pageants", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Billiards", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Bowling", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Boxing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Bridge", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Checkers (draughts)", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cheerleading", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Chess", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Color guard", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Cribbage", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Curling", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Dancing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Darts", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Debate", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Dominoes", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Eating", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Esports", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Fencing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Go", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Gymnastics", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Ice hockey", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Ice skating", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Judo", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Jujitsu", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Kabaddi", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Knowledge/word games", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Laser tag", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Longboarding", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Mahjong", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Marbles", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Martial arts", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Model United Nations", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Poker", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Pool", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Role-playing games", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Shogi", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Slot car racing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Speedcubing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Sport stacking", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Table football", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Table tennis", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Volleyball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Weightlifting", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Wrestling", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Airsoft", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Archery", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Association football", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Australian rules football", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Auto racing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Baseball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Beach volleyball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Breakdancing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Climbing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Cricket", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Croquet", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Cycling", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Disc golf", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Dog sport", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Equestrianism", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Exhibition drill", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Field hockey", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Figure skating", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Fishing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Footbag", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Frisbee", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Golfing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Handball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Horseback riding", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Horseshoes", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Iceboat racing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Jukskei", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Kart racing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Knife throwing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Lacrosse", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Longboarding", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Long-distance running", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Marching band", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Model aircraft", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Orienteering", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Pickleball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Quidditch", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Race walking", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Racquetball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Radio-controlled car racing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Roller derby", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Rugby league football", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sculling", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Shooting sport", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Skateboarding", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Skiing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Sled dog racing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Softball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Speed skating", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Squash", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Surfing", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Swimming", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Table tennis", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tennis", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tennis polo", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tether car", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tour skating", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Tourism", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Trapshooting", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Triathlon", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Ultimate frisbee", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Volleyball", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Water polo", "ar": "" },
+    "category": "Competitive",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Fishkeeping", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Learning", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Meditation", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Microscopy", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Reading", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Research", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Shortwave listening", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Audiophile", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Indoors"
+  },
+  {
+    "name": { "en": "Aircraft spotting", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Amateur astronomy", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Birdwatching", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Bus spotting", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Geocaching", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Gongoozling", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Herping", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Hiking", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Meteorology", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Photography", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Satellite watching", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Trainspotting", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  },
+  {
+    "name": { "en": "Whale watching", "ar": "" },
+    "category": "Observation",
+    "subCategory": "Outdoors"
+  }
+]

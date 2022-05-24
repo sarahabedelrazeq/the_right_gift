@@ -3,6 +3,7 @@
 @import "./global";
 @import "./components";
 @import "./pages";
+@import "./theme";
 
 @import "~bootstrap/scss/utilities";
 @import "~bootstrap/scss/functions";
@@ -14,5 +15,6 @@
 
 [dir='rtl'] .slick-slide
 {
-    float: left !important;
+    float: left !important
 }
+

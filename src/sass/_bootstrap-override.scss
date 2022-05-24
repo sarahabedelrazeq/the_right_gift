@@ -101,3 +101,81 @@ ul {
     }
   }
 }
+
+
+
+.rounded {
+  &-1 {
+    border-radius: 4px !important;
+
+    &-top {
+      border-radius: 4px 4px 0 0 !important;
+    }
+
+    &-bottom {
+      border-radius: 0 0 4px 4px 0 important;
+    }
+  }
+  &-2 {
+    border-radius: 8px !important;
+
+    &-top {
+      border-radius: 8px 8px 0 0 !important;
+    }
+
+    &-bottom {
+      border-radius: 0 0 8px 8px 0 important;
+    }
+  }
+  &-3 {
+    border-radius: 12px !important;
+
+    &-top {
+      border-radius: 12px 12px 0 0 !important;
+    }
+
+    &-bottom {
+      border-radius: 0 0 12px 12px !important;
+    }
+  }
+  &-4 {
+    border-radius: 16px !important;
+
+    &-top {
+      border-radius: 16px 16px 0 0 !important;
+    }
+
+    &-bottom {
+      border-radius: 0 0 16px 16px !important;
+    }
+  }
+  &-5 {
+    border-radius: 19px !important;
+
+    &-top {
+      border-radius: 19px 19px 0 0 !important;
+    }
+
+    &-bottom {
+      border-radius: 0 0 19px 19px !important;
+    }
+  }
+}
+
+.showOpacity {
+  opacity: 0.5;
+}
+.hideOpacity {
+  opacity: 1;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+.top-0 {
+  top: 0;
+}

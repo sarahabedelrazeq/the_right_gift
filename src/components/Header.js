@@ -13,7 +13,6 @@ const Header = () => {
   const dispatch = useDispatch();
   const themeName = useSelector((state) => state.app.theme);
 
-
   return (
     <header>
       <Container>
@@ -27,18 +26,18 @@ const Header = () => {
           </Col>
           <Col xs={6}>
             <nav>
-              <ul class="list-group list-group-horizontal bg-transparent justify-content-end">
-                <li class="list-group-item bg-transparent border-0">
+              <ul className="list-group list-group-horizontal bg-transparent justify-content-end">
+                <li className="list-group-item bg-transparent border-0">
                   <Link style={{ color: theme.text }} to="#home">
                     {language.home}
                   </Link>
                 </li>
-                <li class="list-group-item bg-transparent border-0">
+                <li className="list-group-item bg-transparent border-0">
                   <Link style={{ color: theme.text }} to="#about">
                     {language.about}
                   </Link>
                 </li>
-                <li class="list-group-item bg-transparent border-0">
+                <li className="list-group-item bg-transparent border-0">
                   <button
                     className="btn p-0"
                     onClick={() =>
@@ -49,7 +48,7 @@ const Header = () => {
                     {language.x_lang}
                   </button>
                 </li>
-                <li class="list-group-item bg-transparent border-0">
+                <li className="list-group-item bg-transparent border-0">
                   <button
                     className="btn p-0"
                     onClick={() =>

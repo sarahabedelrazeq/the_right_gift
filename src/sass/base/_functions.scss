@@ -1,3 +1,6 @@
 @function theme-color($key) {
   @return map-get($theme-colors, $key);
 }
+@function theme-color-opacity($key, $opacity: 1) {
+  @return rgba(map-get($theme-colors, $key), $opacity) ;
+}

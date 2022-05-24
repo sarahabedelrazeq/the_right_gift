@@ -6,6 +6,9 @@ const Slider = (props) => {
     dots: true,
     infinite: true,
     speed: 500,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    lazyLoad: true,
     slidesToShow: 1,
     slidesToScroll: 1,
   };
